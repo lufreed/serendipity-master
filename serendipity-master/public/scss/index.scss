@@ -1,0 +1,17 @@
+body{
+    @media only screen and (min-width: 320px){
+        .wrap{
+            min-height: 678px;
+            background-size: cover !important;
+        }
+        // .wrap-box{
+            // padding-top: 45% !important;
+        // }
+        // .wrap-cont{
+        //     min-width: 90%;
+        // }
+        // .cont-right{
+        //     min-width: 40% !important;
+        // }
+    }
+}
