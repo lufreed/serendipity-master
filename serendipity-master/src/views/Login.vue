@@ -29,9 +29,9 @@
 </template>
 
 <script>
+import index from "../../public/scss/index.scss";
 	export default{
 		name:'Login',
-		
 	}
 </script>
 
